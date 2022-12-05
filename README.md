@@ -17,3 +17,4 @@ No Windows, por exemplo, são cerca 10 passos diferentes para adicionar uma nova
 - Recurso de validação da conexão
 - Com conexão/navegação validada, exibir status no APP para o usuário (Conexão OK)
 - Com conexão, baixar e instalar drivers de impressoras de acordo com o perfil LDAP (ADM, Professor)
+- O backend deve ter os endpoint de autenticação, verificação de plataforma e download de configurações via HTTP
